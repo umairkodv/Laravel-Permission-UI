@@ -45,16 +45,6 @@ At the moment, no visual customization options are available, but we may add the
 
 ---
 
-## Publishing translations
-
-If you wish to translate the package, you may publish the language files using:
-
-```sh
-php artisan vendor:publish --provider="LaravelDaily\PermissionsUI\PermissionsUIServiceProvider" --tag="lang"
-```
-
-- - - - -
-
 ## Testing
 
 To run the package's unit tests, run the following command:
