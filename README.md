@@ -1,6 +1,5 @@
 ## Laravel Permission UI
 
-__Status update: package idea abandoned.__ 
 
 __Unfortunately, it's not possible/easy to build this package as flexible as I was expecting, with different layouts for Tailwind/Bootstrap/whatever and auto-implementing all Spatie package features for all possible cases. So I decided not to pursue this idea further and focus on other projects.__
 
