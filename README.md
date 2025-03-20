@@ -37,7 +37,7 @@ return [
 The visual design is based on simple Tailwind classes. 
 At the moment, no visual customization options are available, but we may add them in the future, based on your ideas and feedback.
 
----  
+---
 
 ## Testing
 
