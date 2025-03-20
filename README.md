@@ -4,7 +4,7 @@ This package will create a simple Dashboard for managing roles/permissions based
 
 **Notice**: this is a very early version of the package, may be buggy. Please report issues when found.
 
-- - - - - 
+- - - - -
 
 ## Installation
 
