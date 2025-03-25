@@ -2,7 +2,7 @@
 
 This package will create a simple Dashboard for managing roles/permissions based on the [spatie/laravel-permission](https://github.com/spatie/laravel-permission) package.
 
-**Notice**: this is a very early version of the package, may be buggy. Please report issues when found.
+**Notice**: this is a very early version of the package, may be buggy. Please report issues when found. 
 
 - - - - -
 
